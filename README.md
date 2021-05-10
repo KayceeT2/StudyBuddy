@@ -10,18 +10,18 @@ You will about Advanced Swift, the MVC(Model View Controller) Design Pattern, Mu
 
 ## Quiz Array Questions
 ```
-Question(q: "'A' is the most common letter used in the English language.", a: "False"),
-Question(q: "There are two parts of the body that can't heal themselves.", a: "False"),
-Question(q: "There are five different blood groups.", a: "False"),
-Question(q: "Queen Elizabeth II is currently the second longest reigning British monarch.", a: "False"),
-Question(q: "Your 'radius' bone is in your leg.", a: "False"),
-Question(q: "The only letter not in the periodic table is the letter J.", a: "True"),
-Question(q: "An octopus has three hearts.", a: "True"),
-Question(q: "Spaghetto is the singular word for a piece of spaghetti.", a: "True"),
-Question(q: "Canis lupur is the scientific name for a wolf.", a: "False"),
-Question(q: "The river Seine in Paris is longer than the river Thames in London.", a: "True"),
-Question(q: "Monaco is the smallest country in the world.", a: "False"),
-Question(q: "The Great Wall of China is longer than the distance between London and Beijing.", a: "True")
+Question(text: "'A' is the most common letter used in the English language.", answer: "False"),
+Question(text: "There are two parts of the body that can't heal themselves.", answer: "False"),
+Question(text: "There are five different blood groups.", answer: "False"),
+Question(text: "Queen Elizabeth II is currently the second longest reigning British monarch.", answer: "False"),
+Question(text: "Your 'radius' bone is in your leg.", answer: "False"),
+Question(text: "The only letter not in the periodic table is the letter J.", answer: "True"),
+Question(text: "An octopus has three hearts.", answer: "True"),
+Question(text: "Spaghetto is the singular word for a piece of spaghetti.", answer: "True"),
+Question(text: "Canis lupur is the scientific name for a wolf.", answer: "False"),
+Question(text: "The river Seine in Paris is longer than the river Thames in London.", answer: "True"),
+Question(text: "Monaco is the smallest country in the world.", answer: "False"),
+Question(text: "The Great Wall of China is longer than the distance between London and Beijing.", answer: "True")
 ```
 
 >This is a project from the iCodeLife iOS 14 Swift 5 Course, check out the full course at [www.icodelife.com/courses](https://www.icodelife.com/courses)
