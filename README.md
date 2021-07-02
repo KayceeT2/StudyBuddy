@@ -24,4 +24,4 @@ Question(text: "Monaco is the smallest country in the world.", answer: "False"),
 Question(text: "The Great Wall of China is longer than the distance between London and Beijing.", answer: "True")
 ```
 
->This is a project from the iCodeLife iOS 14 Swift 5 Course, check out the full course at [www.icodelife.com/courses](https://www.icodelife.com/courses)
+>This is a project from the iCodeLife iOS 15 & Swift Course, check out the full course at [www.icodelife.com/courses](https://www.icodelife.com/courses)
