@@ -1,4 +1,4 @@
-# StudyBuddy - iOS 14
+# StudyBuddy - iOS 15
 
 ## What We Will Create
 
